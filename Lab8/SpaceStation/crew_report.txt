@@ -1,0 +1,25 @@
+========================================
+        SPACE STATION CREW REPORT       
+========================================
+Total crew members: 8
+
+Average age: 36,00
+Average mission hours: 1493,81
+
+Crew members per role:
+  COMMANDER    : 1
+  PILOT        : 2
+  ENGINEER     : 2
+  SCIENTIST    : 2
+  MEDIC        : 1
+
+--- Individual profiles ---
+  Zofia Warzycha            | age: 35 | role: ENGINEER   | hours: 1500,5
+  Jan Nowak                 | age: 42 | role: PILOT      | hours: 2100,0
+  Adam Kowalski             | age: 28 | role: SCIENTIST  | hours: 800,0
+  Anna Wisniewska           | age: 30 | role: MEDIC      | hours: 950,0
+  Piotr Zajac               | age: 50 | role: COMMANDER  | hours: 3000,0
+  Maria Lis                 | age: 28 | role: SCIENTIST  | hours: 1200,0
+  Tomasz Brzoza             | age: 35 | role: ENGINEER   | hours: 600,0
+  Katarzyna Kwiatkowska     | age: 40 | role: PILOT      | hours: 1800,0
+========================================
